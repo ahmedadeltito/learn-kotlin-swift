@@ -8,7 +8,7 @@ In this series, we are going to learn Swift and Kotlin from beginner to advanced
 -----------------------------------------------------------------------------------------------------
 
 # Getting Started :
- 1. Basics.
+ 1. Basics (Swift and [Kotlin](https://github.com/ahmed-adel-said/learn-kotlin-swift/tree/master/Kotlin/src/com/ahmedadel/kotlin/basics))
  2. Functions.
  3. Classes.
  4. Implementing Object Oriented Programming.
@@ -18,12 +18,15 @@ In this series, we are going to learn Swift and Kotlin from beginner to advanced
 
 # Tools you need :
 1. For Testing Swift code : 
-	a. https://swift.sandbox.bluemix.net/#/repl
-	b. http://rextester.com/l/swift_online_compiler
+	
+	a. [Swift Sandbox Tool](https://swift.sandbox.bluemix.net/#/repl)
+	
+	b. [Rextester for Swift](http://rextester.com/l/swift_online_compiler)
 2. For Testing Kotlin code :
-	a. https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt 
-	b. http://rextester.com/l/kotlin_online_compiler
-
+	
+	a. [Try Kotlin Tool](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt) 
+	
+	b. [Rextester for Kotlin](http://rextester.com/l/kotlin_online_compiler)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -54,9 +57,9 @@ your extra branch(es).
 This series is built by helping from a lot of people, blogs, and websites.
 
 ### Kotlin References :
-1. Hadi Hariri Talks at Google I/O 2017.
-2. Intellij Kotlin Reference.
+1. [Hadi Hariri Talks at Google I/O 2017.](https://www.youtube.com/watch?v=X1RVYt2QKQE)
+2. [Intellij Kotlin Reference.](https://kotlinlang.org/docs/reference/)
 ### Swift References :
-1. Language Guide of Developer Apple Website
-2. Islam Ibrahim and Ahmad Assuity.
+1. [Language Guide of Developer Apple Website.](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+2. [Islam Ibrahim](https://github.com/islamovic) and [Ahmad Elassuty](https://github.com/AhmedElassuty).
 
