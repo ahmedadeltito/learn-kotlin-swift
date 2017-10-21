@@ -3,6 +3,7 @@
 ![alt tag](https://github.com/ahmed-adel-said/learn-kotlin-swift/blob/master/Kotlin-Swift.png)
 
 Swift and Kotlin are two great languages for iOS and Android development respectively. They both have very modern features and syntax that can help enormously to build native apps. But, how do they both compare to each other? Are they similar? Can we reuse more code between platforms if we adopt them in our projects? 
+
 In this series, we are going to learn Swift and Kotlin from beginner to advanced in parallel by giving the same examples.
 
 -----------------------------------------------------------------------------------------------------
